@@ -7,15 +7,13 @@ package ittapiros;
 
 /**
  *
- * @author Péter
+ * @author Marci
  */
 public class IttAPiros {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+            new gui().setVisible(true);
     }
     
 }
